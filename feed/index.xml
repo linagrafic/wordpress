@@ -10,7 +10,7 @@
 <channel>
 	<title>Prueba</title>
 	<atom:link href="https://wordpress-datask.netlify.app/feed/" rel="self" type="application/rss+xml" />
-	<link>https://wordpress-datask.netlify.app</link>
+	<link>https://wordpress-datask.netlify.app/</link>
 	<description></description>
 	<lastBuildDate>Mon, 20 Mar 2023 19:36:54 +0000</lastBuildDate>
 	<language>es-AR</language>
